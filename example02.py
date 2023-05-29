@@ -1,7 +1,7 @@
 # % This example is to show the usage of STP class.
 # % Many useful methods are overloaded for STP class, thus you can use STP object as double.
 import numpy as np
-from STP import *
+from stp import *
 
 x = np.array([[1, 2, 1, 1],
               [2, 3, 1, 2],
