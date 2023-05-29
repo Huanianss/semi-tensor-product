@@ -1,5 +1,5 @@
 import sklearn
-import STP as stp
+import stp
 import numpy as np
 print(stp)
 # a = np.random.random([2, 3])
