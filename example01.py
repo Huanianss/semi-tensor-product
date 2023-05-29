@@ -1,6 +1,6 @@
 # This example is to show how to perform semi-tensor product
 import numpy as np
-from STP import *
+from stp import *
 
 x = np.array([[1, 2, 3, -1]])
 y = np.array([[2, 1]]).T
