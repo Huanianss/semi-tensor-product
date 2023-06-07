@@ -1,3 +1,5 @@
+<img src="fig/stp.png" style="zoom:30%;" />
+
 ## STP Toolbox for Python
 
 A Semi-tensor product toolbox adapted from matlab version
