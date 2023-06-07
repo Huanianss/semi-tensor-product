@@ -1,4 +1,4 @@
-<img src="fig/stp.png" style="zoom:30%;" />
+<img src="fig/stp.png" style="zoom:10%;" />
 
 ## STP Toolbox for Python
 
